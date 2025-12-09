@@ -32,7 +32,7 @@ Focus on problem-solving, clean code, and efficient solutions.
 Compilation of microservice-style Spring Boot applications used for learning, demos, and experiments.
 
 ### **🔹 Fintech Web App Demo (fintech-app)**
-Simple full-stack demo showing workflow, API integration, and frontend interaction.
+A simple full-stack demo showing workflow and API integration. I’m still learning frontend development, so the frontend is basic and mainly for demonstration purposes.
 
 > *More projects are coming — especially around cloud-native design, backend frameworks, and system architecture.*
 
