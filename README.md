@@ -24,11 +24,11 @@ Specializing in **Java (8–21)**, **Spring Boot**, **microservices**, cloud pla
 
 ## 🧪 Featured Projects
 
-### **🔹 Algorithm Practice (algo-struct)**
+### **🔹 Algorithm Practice (algorithm-datastructure)**
 Collection of data structures and algorithms solved in Java.  
-Focus on problem-solving, clean code, and efficient solutions.
+Focused on problem-solving, clean code, and efficient solutions from previous interviews.
 
-### **🔹 Spring Boot Services (SpringBoot)**
+### **🔹 Spring Boot (springboot-lab)**
 Compilation of microservice-style Spring Boot applications used for learning, demos, and experiments.
 
 ### **🔹 Fintech Web App Demo (fintech-app)**
@@ -40,7 +40,7 @@ A simple full-stack demo showing workflow and API integration. I’m still learn
 
 ## 📈 What I'm Working On
 - Deepening backend engineering expertise in distributed systems  
-- Building portfolio projects around Spring Boot
+- Building portfolio projects around Java Spring Boot and learning Front-end development
 
 ---
 
