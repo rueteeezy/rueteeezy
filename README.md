@@ -15,7 +15,7 @@ Specializing in **Java (8–21)**, **Spring Boot**, **microservices**, cloud pla
 **Languages:** Java (8–21), Go (Golang), Bash  
 **Backend Frameworks:** Spring Boot, SofaBoot(Ant Financial), iBatis/MyBatis  
 **Cloud & DevOps:** AWS EKS, Alibaba Cloud, Docker, Jenkins  
-**Message & Streaming:** Apache Kafka, Message Queue(Ant Financial  
+**Message & Streaming:** Apache Kafka, Message Queue(Ant Financial)  
 **Databases:** MySQL, Redis  
 **Monitoring & Observability:** Prometheus, Grafana, Datadog  
 **Dev Practices:** CI/CD, Domain-Driven Design (DDD), SAST/SonarQube, Event-Driven Architecture  
