@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruel Romeo M. Sintinta  
 
-### 🚀 Senior Backend Engineer | Java Specialist | Cloud-Native Systems
+### 🚀 Senior Backend Engineer | Java | MySQL | Cloud-Native Systems
 
 Backend Engineer with over **7 years of experience** building scalable, distributed, and cloud-native platforms.  
 I’ve spent my entire career in **one company**, continuously growing from junior to senior engineer while delivering  
@@ -13,9 +13,9 @@ Specializing in **Java (8–21)**, **Spring Boot**, **microservices**, cloud pla
 ## 🧰 Tech Stack & Tools
 
 **Languages:** Java (8–21), Go (Golang), Bash  
-**Backend Frameworks:** Spring Boot, SofaBoot, Mule ESB, iBatis/MyBatis  
-**Cloud & DevOps:** AWS, Alibaba Cloud, Docker, Kubernetes (EKS), Jenkins  
-**Message & Streaming:** Apache Kafka, Alibaba MQ  
+**Backend Frameworks:** Spring Boot, SofaBoot(Ant Financial), iBatis/MyBatis  
+**Cloud & DevOps:** AWS EKS, Alibaba Cloud, Docker, Jenkins  
+**Message & Streaming:** Apache Kafka, Message Queue (Ant Financial)
 **Databases:** MySQL, Redis  
 **Monitoring & Observability:** Prometheus, Grafana, Datadog  
 **Dev Practices:** CI/CD, Domain-Driven Design (DDD), SAST/SonarQube, Event-Driven Architecture  
@@ -32,7 +32,7 @@ Focus on problem-solving, clean code, and efficient solutions.
 Compilation of microservice-style Spring Boot applications used for learning, demos, and experiments.
 
 ### **🔹 Fintech Web App Demo (fintech-app)**
-A simple full-stack demo showing workflow and API integration. I’m still learning frontend development, so the frontend is basic and mainly for demonstration purposes.
+A simple full-stack demo showing workflow and API integration. I’m still learning frontend development, the frontend is basic and mainly for demonstration purposes.
 
 > *More projects are coming — especially around cloud-native design, backend frameworks, and system architecture.*
 
